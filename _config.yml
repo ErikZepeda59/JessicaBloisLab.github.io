@@ -1,0 +1,6 @@
+title: Jessica Blois Lab
+description: Quaternary Ecology and Paleoinformatics
+baseurl: ""  # Leave blank unless using a subfolder
+url: "https://jessicabloislab.github.io"
+theme: minima
+markdown: kramdown

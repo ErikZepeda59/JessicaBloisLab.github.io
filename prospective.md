@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Prospective Students
+permalink: /prospective/
 ---
 
 # Join the Lab

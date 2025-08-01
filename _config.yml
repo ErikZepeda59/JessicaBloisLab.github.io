@@ -4,3 +4,5 @@ baseurl: "/JessicaBloisLab.github.io"
 url: "https://erikzepeda59.github.io"
 theme: minima
 markdown: kramdown
+exclude:
+- README_project.md

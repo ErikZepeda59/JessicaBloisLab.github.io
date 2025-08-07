@@ -18,9 +18,9 @@ Meet the lab members and collaborators behind our research.
        onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)'">
     <img src="https://example.com/photo.jpg" alt="Name" style="width:100%; aspect-ratio: 1 / 1; object-fit: cover;">
     <div style="padding: 1rem;">
-      <h3 style="margin-bottom: 0.25rem;">Dr. Jane Doe</h3>
+      <h3 style="margin-bottom: 0.25rem;">Dr. Jessica Blois</h3>
       <p style="font-size: 0.9rem; color: gray;">Principal Investigator, UC Merced</p>
-      <p><a href="mailto:jane.doe@university.edu">📧 jane.doe@university.edu</a></p>
+      <p><a href="mailto:">📧 JessicaBlois@ucmerced.edu</a></p>
       <p><a href="https://janedoe.com" target="_blank">🌐 Website</a></p>
     </div>
   </div>

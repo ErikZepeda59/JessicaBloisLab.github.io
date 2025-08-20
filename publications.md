@@ -6,6 +6,20 @@ permalink: /publications/
 
 # Publications
 
+<!-- Intro image + short blurb -->
+<div style="margin:1rem 0 2rem; display:flex; gap:1rem; align-items:center; flex-wrap:wrap;">
+  <img
+    src="{{ '/assets/img/cropped-yosemite_sunset_sun.jpg' | relative_url }}"
+    alt="Blois Paleoecology Lab"
+    style="max-width:240px; height:auto; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,.15);"
+  >
+  <p style="flex:1; min-width:260px; font-size:1.05rem; line-height:1.5; margin:0;">
+    <strong>Publications from the Blois Paleoecology Lab.</strong>
+    Peer-reviewed papers, reviews, and preprints on Quaternary ecology, paleoecology, and paleo-informatics.
+    Author names in <b>bold</b> are lab members; ✝ indicates student co-author; * indicates co-first authors.
+  </p>
+</div>
+
 <h2>In review / submitted</h2>
 <ul class="pub-list">
   <li>

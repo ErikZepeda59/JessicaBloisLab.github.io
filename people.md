@@ -16,7 +16,7 @@ Meet the lab members and collaborators behind our research.
   <div style="width: 250px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; text-align: center; background-color: #fff; transition: transform 0.2s, box-shadow 0.2s;"
        onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.2)';"
        onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.1)'">
-    <img src="https://example.com/photo.jpg" alt="Name" style="width:100%; aspect-ratio: 1 / 1; object-fit: cover;">
+    <img src="[https://example.com/photo.jpg](https://bloislab.slack.com/files/U08AGK5BC0J/F09928JHSVD/jessicablois_smilodon_cropped_small_copy.jpg)" alt="Name" style="width:100%; aspect-ratio: 1 / 1; object-fit: cover;">
     <div style="padding: 1rem;">
       <h3 style="margin-bottom: 0.25rem;">Dr. Jessica Blois</h3>
       <p style="font-size: 0.9rem; color: gray;">Principal Investigator, UC Merced</p>

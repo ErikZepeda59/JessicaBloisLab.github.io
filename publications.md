@@ -85,7 +85,7 @@ permalink: /publications/
     Herbert, A.V., Haberle, S.G., Flantua, S.G.A., Mottl, O., <b>Blois, J.L.</b>, Williams, J.W., George, A., Hope, G. (2024).
     <a href="https://cp.copernicus.org/articles/20/2473/2024/" target="_blank" rel="noopener">
       The Indo-Pacific Pollen Database – a Neotoma constituent database
-    </a>. <em>Climate of the Past</em> 20: 2473–2485. <span aria-hidden="true">➤</span>
+    </a>. <em>Climate of the Past</em> 20: 2473–2485. <span aria-hidden="true"></span>
   </li>
 
   <li>
@@ -102,14 +102,14 @@ permalink: /publications/
     Williams, J.W., Spanbauer, T.L., Heintzman, P.D., <b>Blois, J.L.</b>, Capo, E., Goring, S.J., Monchamp, M-E., Parducci, L., Von Eggers, J.M., and 17 contributing authors (2023).
     <a href="https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(23)00123-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0169534723001234%3Fshowall%3Dtrue" target="_blank" rel="noopener">
       Strengthening global-change science by integrating aeDNA with paleoecoinformatics
-    </a>. <em>Trends in Ecology and Evolution</em> 38(10): 946–960 <span aria-hidden="true">➤</span>
+    </a>. <em>Trends in Ecology and Evolution</em> 38(10): 946–960 <span aria-hidden="true"></span>
   </li>
 
   <li>
     <b>Boria, R.B.</b>✝ and <b>J.L. Blois</b> (2023).
     <a href="https://www.sciencedirect.com/science/article/pii/S1055790323000015?via%3Dihub" target="_blank" rel="noopener">
       Phylogeography within the <em>Peromyscus maniculatus</em> species group: Understanding past distribution of genetic diversity and areas of refugia in western North America
-    </a>. <em>Molecular Phylogenetics and Evolution</em> 180: 107701 <span aria-hidden="true">➤</span>
+    </a>. <em>Molecular Phylogenetics and Evolution</em> 180: 107701 <span aria-hidden="true"></span>
   </li>
 
   <li>

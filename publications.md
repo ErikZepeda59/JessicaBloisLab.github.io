@@ -79,4 +79,44 @@ permalink: /publications/
   </li>
 </ul>
 
+<h2>2024</h2>
+<ul class="pub-list">
+  <li>
+    Herbert, A.V., Haberle, S.G., Flantua, S.G.A., Mottl, O., <b>Blois, J.L.</b>, Williams, J.W., George, A., Hope, G. (2024).
+    <a href="https://cp.copernicus.org/articles/20/2473/2024/" target="_blank" rel="noopener">
+      The Indo-Pacific Pollen Database – a Neotoma constituent database
+    </a>. <em>Climate of the Past</em> 20: 2473–2485. <span aria-hidden="true">➤</span>
+  </li>
+
+  <li>
+    Nelson, J.K., <b>Blois, J.L.</b>, Goring, S., Williams, J.W., and Dominguez, S. (2024).
+    <a href="https://www.tandfonline.com/doi/full/10.1080/17538947.2024.2378822" target="_blank" rel="noopener">
+      User-centered design and evaluation of the Neotoma paleoecology open software ecosystem
+    </a>. <em>International Journal of Digital Earth</em>, 17(1) <span aria-hidden="true">➤</span>
+  </li>
+</ul>
+
+<h2>2023</h2>
+<ul class="pub-list">
+  <li>
+    Williams, J.W., Spanbauer, T.L., Heintzman, P.D., <b>Blois, J.L.</b>, Capo, E., Goring, S.J., Monchamp, M-E., Parducci, L., Von Eggers, J.M., and 17 contributing authors (2023).
+    <a href="https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(23)00123-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0169534723001234%3Fshowall%3Dtrue" target="_blank" rel="noopener">
+      Strengthening global-change science by integrating aeDNA with paleoecoinformatics
+    </a>. <em>Trends in Ecology and Evolution</em> 38(10): 946–960 <span aria-hidden="true">➤</span>
+  </li>
+
+  <li>
+    <b>Boria, R.B.</b>✝ and <b>J.L. Blois</b> (2023).
+    <a href="https://www.sciencedirect.com/science/article/pii/S1055790323000015?via%3Dihub" target="_blank" rel="noopener">
+      Phylogeography within the <em>Peromyscus maniculatus</em> species group: Understanding past distribution of genetic diversity and areas of refugia in western North America
+    </a>. <em>Molecular Phylogenetics and Evolution</em> 180: 107701 <span aria-hidden="true">➤</span>
+  </li>
+
+  <li>
+    <b>Fox, N.S.</b>✝, Southon, J.R., Howard, C.M., Takeuchi, G.T., Potze, S., Farrell, A.B., Lindsey, E.L., and <b>J.L. Blois</b> (2023).
+    <a href="https://www.sciencedirect.com/science/article/pii/S0031018222005491?via%3Dihub" target="_blank" rel="noopener">
+      Millennial-scale drivers of small mammal isotopic niche dynamics in southern California
+    </a>. <em>Palaeogeography, Palaeoclimatology, Palaeoecology</em> 612: 111378 (pre-print) <span aria-hidden="true">➤</span>
+  </li>
+</ul>
 

@@ -59,21 +59,21 @@ permalink: /publications/
 
   <li>
     <b>Blois, J.L.</b>, Bellvé, A.M., Jarzyna, M.A., Saupe, E.E., and <b>Syverson, V.J.P.</b> (2025).
-    <a href="URL_HERE" target="_blank" rel="noopener">
+    <a href="https://www.cambridge.org/core/journals/paleobiology/article/paleobiogeographic-insights-gained-from-ecological-niche-models-progress-and-continued-challenges/F2601625A49AB2453CEF8D1D2D58B023" target="_blank" rel="noopener">
       Paleobiogeographic Insights Gained from Ecological Niche Models: Progress and Continued Challenges
     </a>. <em>Paleobiology</em> 51(1): 8–28.
   </li>
 
   <li>
     Staples, T.L., <b>Blois, J.L.</b>, Cramer, K.L., Cunningham, E.T., Dornelas, M., Haberle, S.G., Heger, T., Kiessling, W., Magurran, A.E., O’Dea, A., Penny, A.M., Radeloff, V.C., Smith, J.A., Thuiller, W., Williams, J.W., Pandolfi, J.M. (2025).
-    <a href="URL_HERE" target="_blank" rel="noopener">
+    <a href="https://onlinelibrary.wiley.com/doi/10.1111/geb.70005" target="_blank" rel="noopener">
       A conceptual framework for measuring ecological novelty
     </a>. <em>Global Ecology and Biogeography</em> 34(2): e70005.
   </li>
 
   <li>
     <b>Fox✝, N.S.</b> and <b>Blois, J.L.</b> (2025).
-    <a href="URL_HERE" target="_blank" rel="noopener">
+    <a href="https://www.cambridge.org/core/journals/quaternary-research/article/geometric-morphometric-approach-to-identifying-recent-and-fossil-woodrat-molars-with-remarks-on-late-pleistocene-neotoma-macrotis-from-rancho-la-brea/216A48301AE6CBBB3AFDF1763966335B" target="_blank" rel="noopener">
       A geometric morphometric approach to identifying extant and fossil woodrat molars with remarks on late Pleistocene <em>Neotoma macrotis</em> from Rancho La Brea
     </a>. <em>Quaternary Research</em>.
   </li>

@@ -221,3 +221,80 @@ permalink: /publications/
     </a>. <em>Frontiers in Ecology and Evolution</em> 7: 428. <span aria-hidden="true"></span>
   </li>
 </ul>
+
+<h2>2018</h2>
+<ul class="pub-list">
+  <li>
+    Sachs, J.P., <b>Blois, J.L.</b>, McGee, T., Wolhowe, M., Haberle, S., Clark, G., and P. Atahan. (2018).
+    <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018PA003469" target="_blank" rel="noopener">
+      Southward shift of the Pacific ITCZ during the Holocene
+    </a>. <em>Paleoceanography and Paleoclimatology</em> 33(12): 1383–1395.
+  </li>
+
+  <li>
+    <b>Boria, R.</b>✝ and <b>J.L. Blois</b>. (2018).
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304380018302825?via%3Dihub" target="_blank" rel="noopener">
+      The effect of large sample sizes on ecological niche models: Analysis using a North American rodent, <em>Peromyscus maniculatus</em>
+    </a>. <em>Ecological Modelling</em> 386: 83–88.
+  </li>
+
+  <li>
+    <b>Williams, J.E.</b>✝ and <b>J.L. Blois</b>. (2018).
+    <a href="https://onlinelibrary.wiley.com/doi/10.1111/jbi.13395" target="_blank" rel="noopener">
+      Range shifts in response to past and future climate change: Can climate velocities and species’ dispersal capabilities explain variation in mammalian range shifts?
+    </a>. <em>Journal of Biogeography</em> 45(9): 2175–2189.
+  </li>
+
+  <li>
+    Fitzpatrick, M.C.* , <b>Blois, J.L.*</b>, Williams, J.W., Nieto-Lugilde, D., Maguire, K.C., Lorenz, D. (2018).
+    <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14138" target="_blank" rel="noopener">
+      How will climate novelty influence ecological forecasts? Using the Quaternary to assess future reliability
+    </a>. <em>Global Change Biology</em> 24(8): 3575–3586.
+  </li>
+
+  <li>
+    Williams, J.W., Grimm, E.C., <b>Blois, J.L.</b>, Charles, D.F., Davis, E., et&nbsp;al. (2018).
+    <a href="https://www.cambridge.org/core/journals/quaternary-research/article/neotoma-paleoecology-database-a-multiproxy-international-communitycurated-data-resource/1E1C9EB07ADFF01182BCB69A08E1C755" target="_blank" rel="noopener">
+      The Neotoma Paleoecology Database, a multiproxy, international, community-curated data resource
+    </a>. <em>Quaternary Research</em> 89(1): 156–177.
+  </li>
+
+  <li>
+    Nieto-Lugilde, D., Maguire, K.C., <b>Blois, J.L.</b>, Williams, J.W., and M.C. Fitzpatrick. (2018).
+    <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12936" target="_blank" rel="noopener">
+      Multiresponse algorithms for community-level modelling: Review of theory, applications, and comparison to species distribution models
+    </a>. <em>Methods in Ecology and Evolution</em> 9(4): 834–848.
+  </li>
+</ul>
+
+<h2>2017</h2>
+<ul class="pub-list">
+  <li>
+    Barnosky, A.D., Hadly, E.A., Gonzalez, P., Head, J., Polly, P.D., Lawing, A.M., Eronen, J.T., Ackerly, D.D., Alex, K.,
+    Biber, E., <b>Blois, J.</b>, Brashares, J., Ceballos, G., Davis, E., Dietl, G.P., Dirzo, H., Doremus, H., Fortelius, M., Greene, H.,
+    Hellmann, J., Hickler, T., Jackson, S.T., Kemp, M., Koch, P.L., Kremen, C., Lindsey, E.L., Looy, C., Marshall, C.R., Mendenhall, C.,
+    Mulch, A., Mychajliw, A.M., Nowak, C., Ramakrishnan, U., Schnitzler, J., Das Shrestha, K., Solari, K., Stegner, L., Stegner, M.A.,
+    Stenseth, N.C., Wake, M.H., and Z. Zhang (2017).
+    <a href="https://jrbp.stanford.edu/research/publications/merging-paleobiology-conservation-biology-guide-future-terrestrial-ecosystems" target="_blank" rel="noopener">
+      Merging Paleobiology With Conservation Biology to Guide the Future of Terrestrial Ecosystems
+    </a>. <em>Science</em> 355: eaah4787.
+  </li>
+
+  <li>
+    Blonder, B., Moulton, D., <b>Blois, J.</b>, Enquist, B., Graae, B., Macias-Fauria, M., McGill, B., Nogué, S., Ordonez, A., Sandel, B., and J.-C. Svenning (2017).
+    <a href="https://onlinelibrary.wiley.com/doi/10.1111/ele.12736" target="_blank" rel="noopener">
+      Predictability in community dynamics
+    </a>. <em>Ecology Letters</em> 20: 293–306.
+  </li>
+
+  <li>
+    Lawing, A.M.* , Eronen, J.T.* , <b>Blois, J.L.*</b>, Graham, C., and P.D. Polly (2017).
+    <a href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.01986" target="_blank" rel="noopener">
+      Community functional trait composition and the effects of non-ecological processes
+    </a>. <em>Ecography</em> 40(5): 651–663.
+  </li>
+</ul>
+
+<!-- If you want the note from the old page, keep this simple line (no link provided): -->
+<p class="pub-note">The base data are publicly available via <a href="https://datadryad.org/dataset/doi:10.5061/dryad.9t0n8" target="_blank" rel="noopener">Dryad</a>.
+</p>

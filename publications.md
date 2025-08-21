@@ -116,7 +116,8 @@ permalink: /publications/
     <b>Fox, N.S.</b>✝, Southon, J.R., Howard, C.M., Takeuchi, G.T., Potze, S., Farrell, A.B., Lindsey, E.L., and <b>J.L. Blois</b> (2023).
     <a href="https://www.sciencedirect.com/science/article/pii/S0031018222005491?via%3Dihub" target="_blank" rel="noopener">
       Millennial-scale drivers of small mammal isotopic niche dynamics in southern California
-    </a>. <em>Palaeogeography, Palaeoclimatology, Palaeoecology</em> 612: 111378 (pre-print) <span aria-hidden="true">➤</span>
+    </a>. <em>Palaeogeography, Palaeoclimatology, Palaeoecology</em> 612: 111378 <a href="https://dx.doi.org/10.2139/ssrn.4119786" target="_blank" rel="noopener">[pre-print]</a>)
+<span aria-hidden="true">➤</span>
   </li>
 </ul>
 

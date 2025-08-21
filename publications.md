@@ -21,8 +21,7 @@ permalink: /publications/
 
 <p style="font-size:1.05rem;line-height:1.55;margin:.25rem 0 1.25rem;">
   <strong>Publications from the Blois Paleoecology Lab.</strong>
-  Peer-reviewed papers, reviews, and preprints on Quaternary ecology,
-  paleoecology, and paleo-informatics. Author names in <b>bold</b> are lab members;
+  Author names in <b>bold</b> are lab members;
   ✝ indicates student co-author; * indicates co-first authors.
 </p>
 
@@ -33,7 +32,12 @@ permalink: /publications/
     <b>Warnert, R.</b>✝ and <b>Blois, J.L.</b> (submitted).
     <a href="URL_HERE" target="_blank" rel="noopener">
       Impacts of Fire Regime on Small Mammal Communities in California
-    </a>. <span class="pub-note">[preprint]</span>
+    </a>. <span class="pub-note">[<a href="https://www.authorea.com/users/931723/articles/1302686-impacts-of-fire-regime-on-small-mammal-communities-in-california?commit=e22bacddfdad09d5333994d562e58c318d0c2a70" 
+        target="_blank" 
+        rel="noopener">
+      [preprint]
+    </a>]
+  </span>
   </li>
 
   <li>

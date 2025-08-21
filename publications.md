@@ -35,7 +35,7 @@ permalink: /publications/
     </a>. <span class="pub-note">[<a href="https://www.authorea.com/users/931723/articles/1302686-impacts-of-fire-regime-on-small-mammal-communities-in-california?commit=e22bacddfdad09d5333994d562e58c318d0c2a70" 
         target="_blank" 
         rel="noopener">
-      [preprint]
+      preprint
     </a>]
   </span>
   </li>

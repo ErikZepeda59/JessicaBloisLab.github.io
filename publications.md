@@ -174,3 +174,50 @@ permalink: /publications/
   </li>
 </ul>
 
+<h2>2020</h2>
+<ul class="pub-list">
+  <li>
+    <b>Fox, N.S.</b>✝, <b>Veneracion, J.</b>✝, and <b>J.L. Blois</b>. (2020).
+    <a href="https://onlinelibrary.wiley.com/doi/10.1002/ece3.6063" target="_blank" rel="noopener">
+      Are geometric morphometric analyses replicable? Evaluating landmark measurement error and its impact on extant and fossil <em>Microtus</em> classification
+    </a>. <em>Ecology and Evolution</em> 10: 3260–3275. <span aria-hidden="true"></span>
+  </li>
+</ul>
+
+<h2>2019</h2>
+<ul class="pub-list">
+  <li>
+    Knight, C.✝, <b>Blois, J.L.</b>, Blonder, B., Macias-Fauria, M., Ordonez, A., and J-C Svenning. (2019).
+    <a href="https://www.journals.uchicago.edu/doi/10.1086/706340" target="_blank" rel="noopener">
+      Quantifying environmental mismatch and filtering in North American pollen assemblages since the Last Glacial Maximum
+    </a>. <em>The American Naturalist</em> 195: 166–180. <span aria-hidden="true"></span>
+  </li>
+
+  <li>
+    <b>Fox, N.S.</b>✝, Takeuchi, G., Farrell, A., and <b>J.L. Blois</b>. (2019).
+    <a href="https://escholarship.org/uc/item/9tr0d3wq#article_main" target="_blank" rel="noopener">
+      A protocol for differentiating late Quaternary leporid species in southern California with remarks on Project 23 lagomorphs at Rancho La Brea
+    </a>. <em>PaleoBios</em> 36: 1–20. <span aria-hidden="true"></span>
+  </li>
+
+  <li>
+    Tóth, A.✝ et al. (including <b>J.L. Blois</b>). (2019).
+    <a href="https://www.science.org/doi/10.1126/science.aaw1605" target="_blank" rel="noopener">
+      Reorganization of surviving mammalian communities after the end-Pleistocene mass extinction
+    </a>. <em>Science</em> 365: 1305–1308. <span aria-hidden="true"></span>
+  </li>
+
+  <li>
+    Rapacciuolo, G. and <b>J.L. Blois</b>. (2019).
+    <a href="https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.04616" target="_blank" rel="noopener">
+      Understanding ecological change across large spatial, temporal and taxonomic scales: integrating data and methods in light of theory
+    </a>. <em>Ecography</em> 42: 1247–1266. <span aria-hidden="true"></span>
+  </li>
+
+  <li>
+    Rapacciuolo, G., Rominger, A., Morueta-Holme, N., and <b>J.L. Blois</b>. (2019).
+    <a href="https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2019.00428/full" target="_blank" rel="noopener">
+      Editorial: Ecological Non-equilibrium in the Anthropocene
+    </a>. <em>Frontiers in Ecology and Evolution</em> 7: 428. <span aria-hidden="true"></span>
+  </li>
+</ul>

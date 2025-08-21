@@ -52,7 +52,7 @@ permalink: /publications/
 <ul class="pub-list">
   <li>
     Thomer, A.K., Williams, J.W., Goring, S., and <b>Blois, J.L.</b> (2025).
-    <a href="URL_HERE" target="_blank" rel="noopener">
+    <a href="(https://eos.org/opinions/the-valuable-vulnerable-long-tail-of-earth-science-databases)" target="_blank" rel="noopener">
       The Valuable, Vulnerable, Long Tail of Earth Science Databases
     </a>. <em>Eos</em> 106.
   </li>

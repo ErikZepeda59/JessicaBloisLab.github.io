@@ -20,7 +20,6 @@ Meet the lab members and collaborators behind our research.
   src="{{ '/assets/img/jessicablois_smilodon_cropped_small_copy.jpg' | relative_url }}"
   alt="Dr. Jessica Blois"
   style="width:100%; aspect-ratio: 1 / 1; object-fit: cover; display:block;"
-  loading="lazy"
 />
     <div style="padding: 1rem;">
       <h3 style="margin-bottom: 0.25rem;">Dr. Jessica Blois</h3>

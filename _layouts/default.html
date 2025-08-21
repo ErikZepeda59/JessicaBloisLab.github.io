@@ -58,6 +58,32 @@ header a:hover {
   a:hover {
     color: #1a6d72;
   }
+
+    /* Masthead */
+.site-masthead{padding:1rem 0 .25rem}
+.site-masthead h1{
+  margin:0;
+  font-size:2.6rem;
+  color:#2b61a1;            /* old-site blue */
+  text-transform:uppercase;
+  letter-spacing:.02em;
+  font-weight:700;
+}
+.site-masthead p{
+  margin:.15rem 0 1rem;
+  font-size:1.05rem;
+  color:#2b61a1;
+  text-transform:uppercase;
+  letter-spacing:.08em;
+}
+.masthead-rule{
+  border:0;height:3px;background:#eba66b; /* soft orange line */
+  margin:.5rem 0 1.25rem;
+}
+@media (max-width:700px){
+  .site-masthead h1{font-size:2rem}
+  .site-masthead p{font-size:.95rem}
+}
 </style>
 </head>
 <body>
@@ -71,6 +97,13 @@ header a:hover {
     <a href="{{ site.baseurl }}/prospective/">Prospective Students</a>
   </header>
 
+  <!-- Site-wide masthead -->
+<div class="site-masthead">
+  <h1>{{ site.title }}</h1>
+  <p>{{ site.tagline }}</p>
+</div>
+<hr class="masthead-rule">
+  
   <main>
     {{ content }}
   </main>

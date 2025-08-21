@@ -4,6 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
+
+<style>
+     /* spacing for publication bullets */
+  .pub-list { list-style: disc; padding-left: 1.25rem; margin: 0 0 1rem; }
+  .pub-list li { margin: 0 0 0.75rem; line-height: 1.5; }
+  .pub-list li:last-child { margin-bottom: 0; }
+</style>
 <!-- Hero banner -->
 <img src="{{ '/assets/img/cropped-yosemite_sunset_sun.jpg' | relative_url }}"
      alt="Blois Paleoecology Lab"
@@ -61,7 +68,7 @@ permalink: /publications/
   </li>
 
   <li>
-    <b>Fox</b>✝, N.S. and <b>Blois, J.L.</b> (2025).
+    <b>Fox✝, N.S.</b> and <b>Blois, J.L.</b> (2025).
     <a href="URL_HERE" target="_blank" rel="noopener">
       A geometric morphometric approach to identifying extant and fossil woodrat molars with remarks on late Pleistocene <em>Neotoma macrotis</em> from Rancho La Brea
     </a>. <em>Quaternary Research</em>.

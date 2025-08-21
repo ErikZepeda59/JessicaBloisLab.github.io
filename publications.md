@@ -116,8 +116,61 @@ permalink: /publications/
     <b>Fox, N.S.</b>✝, Southon, J.R., Howard, C.M., Takeuchi, G.T., Potze, S., Farrell, A.B., Lindsey, E.L., and <b>J.L. Blois</b> (2023).
     <a href="https://www.sciencedirect.com/science/article/pii/S0031018222005491?via%3Dihub" target="_blank" rel="noopener">
       Millennial-scale drivers of small mammal isotopic niche dynamics in southern California
-    </a>. <em>Palaeogeography, Palaeoclimatology, Palaeoecology</em> 612: 111378 <a href="https://dx.doi.org/10.2139/ssrn.4119786" target="_blank" rel="noopener">[pre-print]</a>)
+    </a>. <em>Palaeogeography, Palaeoclimatology, Palaeoecology</em> 612: 111378 <a href="https://dx.doi.org/10.2139/ssrn.4119786" target="_blank" rel="noopener">[pre-print]</a>
 <span aria-hidden="true">➤</span>
+  </li>
+</ul>
+
+<h2>2022</h2>
+<ul class="pub-list">
+  <li>
+    Balk, Meghan et al. (including <b>J.L. Blois</b>). (2022).
+    <a href="https://www.cell.com/iscience/fulltext/S2589-0042(22)01373-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004222013736%3Fshowall%3Dtrue" target="_blank" rel="noopener">
+      A solution to the challenges of interdisciplinary aggregation and use of specimen-level trait data
+    </a>. <em>iScience</em> 25(10): 105101. <span aria-hidden="true"></span>
+  </li>
+
+  <li>
+    <b>Brock, K.M.</b>✝, Chelini, M.C., Ayton, C., Madden, I.E., Ramos, C., <b>Blois, J.L.</b>, Pafilis, P., Edwards, D.L. (2022).
+    <a href="https://www.sciencedirect.com/science/article/pii/S0003347222001804" target="_blank" rel="noopener">
+      Colour morph predicts social behaviour and contest outcomes in a polymorphic lizard (<em>Podarcis erhardii</em>)
+    </a>. <em>Animal Behavior</em> 191: 91–103. <span aria-hidden="true"></span>
+  </li>
+</ul>
+
+<h2>2021</h2>
+<ul class="pub-list">
+  <li>
+    Nieto-Lugilde, D., <b>Blois, J.L.</b>, Bonet-Garcia, F.J., Giesecke, T., Gil-Romera, G., and A. Seddon. (2021).
+    <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac1b59" target="_blank" rel="noopener">
+      Time to better integrate paleo- and neoecological research infrastructures to improve understanding of biodiversity long-term dynamics and to inform future conservation
+    </a>. <em>Environmental Research Letters</em> 16: 095005. <span aria-hidden="true"></span>
+  </li>
+
+  <li>
+    Lawing, A.M., <b>Blois, J.L.</b>, Maguire, K.C., Wang, Y., Goring, S., and J.L. McGuire. (2021).
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0277379120307095?via%3Dihub" target="_blank" rel="noopener">
+      Occupancy models reveal regional differences in detectability and improve relative abundance estimations in fossil pollen assemblages
+    </a>. <em>Quaternary Science Reviews</em> 253: 106747. <span aria-hidden="true"></span>
+  </li>
+
+  <li>
+    <b>Boria, R.B.</b>✝, <b>Brown, S.K.</b>✝, Matocq, M., and <b>J.L. Blois</b>. (2021).
+    <a href="https://www.nature.com/articles/s41437-020-00393-7" target="_blank" rel="noopener">
+      Genome-wide genetic variation coupled with demographic and ecological niche modeling of the dusky-footed woodrat (<em>Neotoma fuscipes</em>) reveal patterns of deep divergence and widespread Holocene expansion across northern California
+    </a>. <em>Heredity</em> 126: 521–536.
+    
+<a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA634210/" target="_blank" rel="noopener">SRA data</a>
+    <span aria-hidden="true"></span>
+  </li>
+
+  <li>
+    Pineda-Muñoz, S., Jukar, A.M., Tóth, A.B., Fraser, D., Du, A., Barr, W.A., Amatangelo, K.L., Balk, M.A., Behrensmeyer, A.K.,
+    <b>Blois, Jessica</b>, Davis, M., Eronen, J.T., Gotelli, N.J., Looy, C., Miller, J.H., Shupinski, A.B., Soul, L.C., Villaseñor, A.,
+    Wing, S., and S.K. Lyons. (2021).
+    <a href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.05027" target="_blank" rel="noopener">
+      Body mass-related changes in mammal community assembly patterns during the late Quaternary of North America
+    </a>. <em>Ecography</em> 44(1): 56–66. <span aria-hidden="true"></span>
   </li>
 </ul>
 

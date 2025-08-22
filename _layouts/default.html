@@ -101,9 +101,9 @@ header a:hover {
     padding-left: 0;
   }
 
-    /* Global page heading color (not the masthead) */
-main :is(h2),
-main :is(h2) a {
+ /* Make ONLY the first heading in the page content blue */
+main :is(h1,h2,h3,h4,h5,h6):first-of-type,
+main :is(h1,h2,h3,h4,h5,h6):first-of-type a {
   color: #0056a3 !important;
 }
 </style>

@@ -81,11 +81,24 @@ header a:hover {
   .site-masthead h1{font-size:2rem}
   .site-masthead p{font-size:.95rem}
 }
-/* Header format styling  */
-    header.site-header {
-    max-width: 900px;   /* match your text width */
-    margin: 0 auto;     /* center align it with the text */
-    padding: 0 1rem;
+
+    /* one knob to set page width */
+  :root { --page-max: 900px; }
+
+  /* make the masthead align with the content column */
+  .site-masthead,
+  main {
+    max-width: var(--page-max);
+    margin: 0 auto;
+    padding: 0 1rem;   /* small side gutters */
+  }
+
+  /* keep masthead text left-aligned */
+  .site-masthead h1,
+  .site-masthead .site-tagline {
+    text-align: left;
+    margin-left: 0;
+    padding-left: 0;
   }
 </style>
 </head>

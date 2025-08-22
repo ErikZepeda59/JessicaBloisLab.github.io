@@ -295,6 +295,65 @@ permalink: /publications/
   </li>
 </ul>
 
+<h3>2016</h3>
+<ul class="pub-list">
+  <li>
+    <b>Brown, S.K.</b> and <b>J.L. Blois</b> (2016).
+    <a href="https://onlinelibrary.wiley.com/doi/10.1002/9780470015902.a0026352" target="_blank" rel="noopener">
+      Ecological insights from ancient DNA
+    </a>. <em>eLS</em>. Chichester: John Wiley &amp; Sons, Ltd., pp. 1–7.
+  </li>
+
+  <li>
+    <b>Brown, S.K.</b> and <b>J.L. Blois</b> (2016).
+    <a href="https://www.tandfonline.com/doi/full/10.1080/23802359.2016.1233464" target="_blank" rel="noopener">
+      The complete mitochondrial genome of the dusky-footed woodrat (<em>Neotoma fuscipes</em>) (Rodentia, Cricetidae)
+    </a>. <em>Mitochondrial DNA Part B: Resources</em> 1(1): 728–729.
+  </li>
+
+  <li>
+    Dawson, M.N., Axmacher, J.C., Beierkuhnlein, C., <b>Blois, J.L.</b>, Bradley, B.A., Cord, A.F., Dengler, J., He, K.S., Heaney, L.S., Jansson, R., Mahecha, M.D., Myers, C., Nogués‑Bravo, D., Papadopoulou, A., Reu, B., Rodríguez‑Sánchez, F., Steinbauer, M.J., and A. Stigall (2016).
+    <a href="https://escholarship.org/uc/item/8bx638kb" target="_blank" rel="noopener">
+      A second horizon scan of biogeography: Golden Ages, Midas touches, and the Red Queen
+    </a>. <em>Frontiers of Biogeography</em> 8(4): e29770.
+  </li>
+
+  <li>
+    Lorenz, D.J., Nieto‑Lugilde, D., <b>Blois, J.L.</b>, Fitzpatrick, M.C., and J.W. Williams (2016).
+    <a href="https://www.nature.com/articles/sdata201648" target="_blank" rel="noopener">
+      Downscaled and debiased climate simulations for North America from 21,000 years ago to 2100AD
+    </a>. <em>Scientific Data</em> 3: 160048.
+  </li>
+
+  <li>
+    Maguire, K.C.*, Nieto‑Lugilde, D.*, <b>Blois, J.L.</b>, Fitzpatrick, M.C., Williams, J.W., Ferrier, S., and D.J. Lorenz (2016).
+    <a href="#" target="_blank" rel="noopener">
+      Controlled comparison of species‑ and community‑level models across novel climates and communities
+    </a>. <em>Proceedings of the Royal Society B</em> 283(1826): 20152817.
+  </li>
+
+  <li>
+    Lyons, S.K., Amatangelo, K.L., Behrensmeyer, A.K., Bercovici, A., <b>Blois, J.L.</b>, Davis, M., DiMichele, W.A., Du, A., Eronen, J.T., Faith, J.T., Graves, G.R., Jud, N., Labandeira, C., Looy, C.V., McGill, B., Miller, J.H., Patterson, D., Pineda‑Munoz, S., Potts, R., Riddle, B., Terry, R., Tóth, A., Ulrich, W., Villaseñor, A., Wing, S., Anderson, H., Anderson, J., Waller, D., and N.J. Gotelli (2016).
+    <a href="#" target="_blank" rel="noopener">
+      Holocene shifts in the assembly of terrestrial plant and animal communities implicate increasing human impacts
+    </a>. <em>Nature</em> 529: 80–83.
+  </li>
+
+  <li>
+    Bertelsmeier, C. and S. Ollier (2016).
+    <a href="#" target="_blank" rel="noopener">
+      Questioning Holocene community shifts
+    </a>. <em>Nature</em> 537: E4–E5.
+  </li>
+
+  <li>
+    Lyons, S.K., Miller, J.H., Tóth, A., Amatangelo, K.L., Behrensmeyer, A.K., Bercovici, A., <b>Blois, J.L.</b>, Davis, M., DiMichele, W.A., Du, A., Eronen, J.T., Faith, J.T., Graves, G.R., Jud, N., Labandeira, C., Looy, C.V., McGill, B., Patterson, D., Pineda‑Munoz, S., Potts, R., Riddle, B., Terry, R., Ulrich, W., Villaseñor, A., Wing, S., Anderson, H., Anderson, J., and N.J. Gotelli (2016).
+    <a href="#" target="_blank" rel="noopener">
+      Lyons et al. reply
+    </a>. <em>Nature</em> 537: E5–E6.
+  </li>
+</ul>
+
 <!-- If you want the note from the old page, keep this simple line (no link provided): -->
 <p class="pub-note">The base data are publicly available via <a href="https://datadryad.org/dataset/doi:10.5061/dryad.9t0n8" target="_blank" rel="noopener">Dryad</a>.
 </p>

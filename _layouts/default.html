@@ -101,8 +101,10 @@ header a:hover {
     padding-left: 0;
   }
 
-    h2 {
-  color: #0056a3;
+    /* Global page heading color (not the masthead) */
+main :is(h1,h2,h3,h4,h5,h6),
+main :is(h1,h2,h3,h4,h5,h6) a {
+  color: #0056a3 !important;
 }
 </style>
 </head>

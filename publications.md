@@ -426,3 +426,55 @@ permalink: /publications/
   <a href="#top">↑ Back to top</a>
 </p>
 
+<h3>2013</h3>
+<ul class="pub-list">
+  <li>
+    <b>Blois, J.L.</b>, Zarnetske, P.L., Fitzpatrick, M.C., and S. Finnegan (2013).
+    <a href="" target="_blank" rel="noopener">
+      Climate change and the past, present, and future of biotic interactions
+    </a>. <em>Science</em> 341: 499–504. 
+    ( <a href="" target="_blank" rel="noopener">Abstract</a> | 
+      <a href="" target="_blank" rel="noopener">Full Text</a> | 
+      <a href="" target="_blank" rel="noopener">Reprint</a> )
+    <ul>
+      <li>Podcast (my part from 13:48 to 22:12)</li>
+      <li>Press coverage: UC Merced, NSF, Yale, and ScienceDaily</li>
+    </ul>
+  </li>
+
+  <li>
+    Williams, J.W., <b>Blois, J.L.</b>, Gill, J.L., Gonzalez, L.M., Grimm, E.C., Jackson, S.T., Ordonez, A., Shuman, B., and S.D. Veloz (2013).
+    <a href="" target="_blank" rel="noopener">
+      Model systems for a no-analog future: Species associations and climates during the last deglaciation
+    </a>. <em>Annals of the New York Academy of Sciences</em> 1297: 29–43.
+  </li>
+
+  <li>
+    <b>Blois, J.L.</b>, Williams, J.W., Fitzpatrick, M.C., Jackson, S.T., and S. Ferrier (2013).
+    <a href="" target="_blank" rel="noopener">
+      Space can substitute for time in predicting climate-change effects on biodiversity
+    </a>. <em>Proceedings of the National Academy of Sciences</em> 110: 9374–9379.
+    <ul>
+      <li>Press coverage: UW Madison, Science Daily, UC Merced, Merced Sun Star, Sacramento Bee</li>
+      <li>Link to data and code in Dryad</li>
+    </ul>
+  </li>
+
+  <li>
+    <b>Blois, J.L.</b>, Williams, J.W., Fitzpatrick, M.C., Ferrier, S., Veloz, S., He, F., Liu, Z., Manion, G., and B. Otto-Bliesner (2013).
+    <a href="" target="_blank" rel="noopener">
+      Modeling the climatic drivers of spatial patterns in vegetation composition since the Last Glacial Maximum
+    </a>. <em>Ecography</em> 36: 460–473.
+    <ul>
+      <li>The downscaled paleoclimate simulations are publicly available</li>
+      <li>Featured article on the <em>Ecography</em> Facebook page</li>
+    </ul>
+  </li>
+
+  <li>
+    Uhen, M.D., Barnosky, A.D., Bills, B., <b>Blois, J.L.</b>, Carrasco, M.A., Carrano, M.T., Erickson, G.M., Eronen, J., Fortelius, M., Graham, R.W., Grimm, E.C., O’Leary, M., Mast, A., Piel, W., Polly, P.D., and L.K. Säilä (2013).
+    <a href="" target="_blank" rel="noopener">
+      From cards catalogs to computers: Databases in vertebrate paleontology
+    </a>. <em>Journal of Vertebrate Paleontology</em> 33: 13–28.
+  </li>
+</ul>

@@ -573,3 +573,26 @@ permalink: /publications/
   <a href="#top">↑ Back to top</a>
 </p>
 
+<h3>2009</h3>
+<ul class="pub-list">
+  <li>
+    <b>Blois, J.L.</b> and E.A. Hadly (2009).
+    <a href="https://www.annualreviews.org/content/journals/10.1146/annurev.earth.031208.100055?originator=useradmin&identity=5131&timestamp=20991231000000&signature=8eb9cf4861a5b935f12bd595309f98f0" target="_blank" rel="noopener">
+      Mammalian response to Cenozoic climatic change
+    </a>. <em>Annual Review of Earth and Planetary Sciences</em> 37: 181–208.
+  </li>
+</ul>
+
+<p style="text-align:center !important; font-size:0.9em;">
+  <a href="#top">↑ Back to top</a>
+</p>
+
+<h3>2008</h3>
+<ul class="pub-list">
+  <li>
+    <b>Blois, J.L.</b>, Feranec, R.S., and E.A. Hadly (2008).
+    <a href="" target="_blank" rel="noopener">
+      Environmental influences on spatial and temporal patterns of body size variation in California ground squirrels (<em>Spermophilus beecheyi</em>)
+    </a>. <em>Journal of Biogeography</em> 35: 602–613.
+  </li>
+</ul>

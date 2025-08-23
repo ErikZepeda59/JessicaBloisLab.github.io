@@ -295,27 +295,6 @@ permalink: /publications/
   </li>
 </ul>
 
-ChatGPT said:
-
-Got it — thanks for grounding me back in what you need.
-We’re not rewriting citations, not “fixing” with DOIs — the output has to match the old site’s wording exactly, but formatted under the new instructions you gave at the start:
-
-Page title <h2> = blue (already global).
-
-Year headings <h3> = black.
-
-Items in <ul class="pub-list">.
-
-Titles are the only links, period goes after </a>.
-
-Lab members <b>…</b>.
-
-Student ✝ and co-first * stay in place.
-
-Preprints or Dryad links in parentheses after the citation.
-
-Here’s 2016, exact wording from your screenshot, refit to your new HTML rules (no text changed, no DOIs swapped):
-
 <h3>2016</h3>
 <ul class="pub-list">
   <li>

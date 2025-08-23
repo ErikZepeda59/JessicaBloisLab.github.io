@@ -433,47 +433,62 @@ permalink: /publications/
     <a href="" target="_blank" rel="noopener">
       Climate change and the past, present, and future of biotic interactions
     </a>. <em>Science</em> 341: 499–504. 
-    ( <a href="" target="_blank" rel="noopener">Abstract</a> | 
-      <a href="" target="_blank" rel="noopener">Full Text</a> | 
-      <a href="" target="_blank" rel="noopener">Reprint</a> )
+    ( <a href="https://www.science.org/doi/abs/10.1126/science.1237184?ijkey=01pPcYP5Z7ces&keytype=ref&siteid=sci" target="_blank" rel="noopener">Abstract</a> | 
+      <a href="https://www.science.org/doi/10.1126/science.1237184?ijkey=01pPcYP5Z7ces&keytype=ref&siteid=sci" target="_blank" rel="noopener">Full Text</a> | 
+      <a href="https://www.science.org/doi/10.1126/science.1237184?ijkey=01pPcYP5Z7ces&keytype=ref&siteid=sci" target="_blank" rel="noopener">Reprint</a> )
     <ul>
-      <li>Podcast (my part from 13:48 to 22:12)</li>
-      <li>Press coverage: UC Merced, NSF, Yale, and ScienceDaily</li>
+      <li><a href="https://www.science.org/doi/10.1126/science.74" target="_blank" rel="noopener">Podcast</a> (my part from 13:48 to 22:12)</li>
+      <li>Press coverage: 
+        <a href="https://www.science.org/doi/10.1126/science.74" target="_blank" rel="noopener">UC Merced</a>, 
+        <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=128632&org=NSF&from=news" target="_blank" rel="noopener">NSF</a>, 
+        <a href="https://environment.yale.edu/news/article/deep-past-offers-clues-into-climate-driven-biotic-shifts" target="_blank" rel="noopener">Yale</a>, and 
+        <a href="https://www.sciencedaily.com/releases/2013/08/130805092632.htm" target="_blank" rel="noopener">ScienceDaily</a>
+      </li>
     </ul>
   </li>
 
   <li>
     Williams, J.W., <b>Blois, J.L.</b>, Gill, J.L., Gonzalez, L.M., Grimm, E.C., Jackson, S.T., Ordonez, A., Shuman, B., and S.D. Veloz (2013).
-    <a href="" target="_blank" rel="noopener">
+    <a href="https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.12226" target="_blank" rel="noopener">
       Model systems for a no-analog future: Species associations and climates during the last deglaciation
     </a>. <em>Annals of the New York Academy of Sciences</em> 1297: 29–43.
   </li>
 
   <li>
     <b>Blois, J.L.</b>, Williams, J.W., Fitzpatrick, M.C., Jackson, S.T., and S. Ferrier (2013).
-    <a href="" target="_blank" rel="noopener">
+    <a href="https://www.pnas.org/doi/full/10.1073/pnas.1220228110" target="_blank" rel="noopener">
       Space can substitute for time in predicting climate-change effects on biodiversity
     </a>. <em>Proceedings of the National Academy of Sciences</em> 110: 9374–9379.
     <ul>
-      <li>Press coverage: UW Madison, Science Daily, UC Merced, Merced Sun Star, Sacramento Bee</li>
-      <li>Link to data and code in Dryad</li>
+      <li>Press coverage: 
+        <a href="https://news.wisc.edu/understanding-the-past-and-predicting-the-future-by-looking-across-space-and-time/" target="_blank" rel="noopener">UW Madison</a>, 
+        <a href="https://www.sciencedaily.com/releases/2013/05/130525143731.htm" target="_blank" rel="noopener">Science Daily</a>, 
+        <a href="https://www.ucmerced.edu/news/professor%E2%80%99s-work-earns-her-spot-prestigious-journal" target="_blank" rel="noopener">UC Merced</a>, 
+        <a href="https://www.mercedsunstar.com/2013/06/11/3064650/uc-merced-connect-ancient-pollen.html" target="_blank" rel="noopener">Merced Sun Star</a>, 
+        <a href="https://www.sacbee.com/2013/06/11/5489888/uc-merced-connect-ancient-pollen.html" target="_blank" rel="noopener">Sacramento Bee</a>
+      </li>
+      <li><a href="https://datadryad.org/dataset/doi:10.5061/dryad.d5f1r" target="_blank" rel="noopener">Link to data and code in Dryad</a></li>
     </ul>
   </li>
 
   <li>
     <b>Blois, J.L.</b>, Williams, J.W., Fitzpatrick, M.C., Ferrier, S., Veloz, S., He, F., Liu, Z., Manion, G., and B. Otto-Bliesner (2013).
-    <a href="" target="_blank" rel="noopener">
+    <a href="https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1600-0587.2012.07852.x" target="_blank" rel="noopener">
       Modeling the climatic drivers of spatial patterns in vegetation composition since the Last Glacial Maximum
     </a>. <em>Ecography</em> 36: 460–473.
     <ul>
-      <li>The downscaled paleoclimate simulations are publicly available</li>
-      <li>Featured article on the <em>Ecography</em> Facebook page</li>
+      <li>The downscaled paleoclimate simulations are publicly available 
+        <a href="http://ccr.aos.wisc.edu/resources/data_scripts/#ccsm3" target="_blank" rel="noopener">here</a>
+      </li>
+      <li>Featured article on the <em>Ecography</em> 
+        <a href="https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fecographyjournal%3Ffilter%3D1" target="_blank" rel="noopener">Facebook</a> page
+      </li>
     </ul>
   </li>
 
   <li>
     Uhen, M.D., Barnosky, A.D., Bills, B., <b>Blois, J.L.</b>, Carrasco, M.A., Carrano, M.T., Erickson, G.M., Eronen, J., Fortelius, M., Graham, R.W., Grimm, E.C., O’Leary, M., Mast, A., Piel, W., Polly, P.D., and L.K. Säilä (2013).
-    <a href="" target="_blank" rel="noopener">
+    <a href="https://www.tandfonline.com/eprint/GuvFiDdmXpZXSX8vZZZf/full" target="_blank" rel="noopener">
       From cards catalogs to computers: Databases in vertebrate paleontology
     </a>. <em>Journal of Vertebrate Paleontology</em> 33: 13–28.
   </li>

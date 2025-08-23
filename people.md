@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 
-# Our Team
+# Blois Paleoecology Lab Members
 
 Meet the lab members and collaborators behind our research.
 

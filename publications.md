@@ -370,7 +370,7 @@ permalink: /publications/
   <a href="#top">↑ Back to top</a>
 </p>
 
-h3>2015</h3>
+<h3>2015</h3>
 <ul class="pub-list">
   <li>
     Maguire, K.C., Nieto Lugilde, D., Fitzpatrick, M.C., Williams, J.W., and <b>J.L. Blois</b> (2015).
@@ -405,7 +405,24 @@ h3>2015</h3>
   <a href="#top">↑ Back to top</a>
 </p>
 
+<h3>2014</h3>
+<ul class="pub-list">
+  <li>
+    <b>Blois, J.L.</b>, Gotelli, N., Behrensmeyer, A.K., Faith, J.T., Lyons, S.K., Williams, J.W., Amatangelo, K.L., Bercovici, A., Du, A., Eronen, J.T., Graves, G.R., Jud, N., Labandeira, C., Looy, C.V., McGill, B., Patterson, D., Potts, R., Riddle, B., Terry, R.C., Tóth, A., Villaseñor, A., and S. Wing (2014).
+    <a href="https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.00779" target="_blank" rel="noopener">
+      A framework for evaluating the influence of climate, dispersal limitation, and biotic interactions using fossil pollen species associations across the late Quaternary
+    </a>. <em>Ecography</em> 37: 1095–1108.
+    ( <a href="https://figshare.com/articles/dataset/Blois_ETE_base_data/841756" target="_blank" rel="noopener">Figshare</a> )
+  </li>
 
+  <li>
+    Gavin, D.G., Fitzpatrick, M.C., Gugger, P.F., Heath, K.D., Rodríguez-Sánchez, F., Dobrowski, Hampe, A., Hu, F.S., Ashcroft, M.B., Bartlein, P.J., <b>Blois, J.L.</b>, Carstens, B.C., Davis, E., de Lafontaine, G., Edwards, M.E., Fernandez, M., Henne, P.D., Herring, E.M., Holden, Z.A., Kong, W., Liu, J., Magri, D., Matzke, N.J., McGlone, M.S., Saltré, F., Stigall, A.L., Tsai, Y.E., Williams, J.W. (2014).
+    <a href="https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.12929" target="_blank" rel="noopener">
+      Climate refugia: joint inference from fossil records, species distribution models and phylogeography
+    </a>. <em>New Phytologist</em> 204: 37–54.
+  </li>
 
-
+<p style="text-align:center !important; font-size:0.9em;">
+  <a href="#top">↑ Back to top</a>
+</p>
 

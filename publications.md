@@ -493,3 +493,83 @@ permalink: /publications/
     </a>. <em>Journal of Vertebrate Paleontology</em> 33: 13–28.
   </li>
 </ul>
+
+<p style="text-align:center !important; font-size:0.9em;">
+  <a href="#top">↑ Back to top</a>
+</p>
+
+<h3>2012</h3>
+<ul class="pub-list">
+  <li>
+    Goring, S.J., Williams, J.W., <b>Blois, J.L.</b>, Jackson, S.T., Paciorek, C.J., Booth, R.K., Marlon, J.R., Blaauw, M. and J.A. Christen (2012).
+    <a href="https://www.sciencedirect.com/science/article/pii/S0277379112002132?via%3Dihub" target="_blank" rel="noopener">
+      Deposition times in the northeastern United States during the Holocene: establishing valid priors for Bayesian age models
+    </a>. <em>Quaternary Science Reviews</em> 48: 54–60.
+  </li>
+
+  <li>
+    Veloz, S., Williams, J.W., <b>Blois, J.L.</b>, He, F., Otto-Bliesner, B., and Z. Liu (2012).
+    <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2486.2011.02635.x" target="_blank" rel="noopener">
+      No-analog climates and shifting realized niches during the late Quaternary: implications for 21st-century predictions by species distribution models
+    </a>. <em>Global Change Biology</em> 18: 1698–1713.
+  </li>
+
+  <li>
+    Clark, P.U., Shakun, J.D., Baker, P.A., Bartlein, P.J., Brewer, S., Brook, E.J., Carlson, A.E., Cheng, H., Kaufman, D.S., Liu, Z., Marchitto, T.M., Mix, A.C., Morrill, C., Otto-Bliesner, B., Pahnke, K., Russell, J.M., Whitlock, C., Adkins, J.F., <b>Blois, J.L.</b>, Clark, J., Colman, S.C., Curry, W.B., Flower, B.P., He, F., Johnson, T.C., Lynch-Stieglitz, J., Markgraf, V., McManus, J.F., Mitrovica, J.X., Moreno, P.I., and J.W. Williams (2012).
+    <a href="https://www.pnas.org/doi/full/10.1073/pnas.1116619109" target="_blank" rel="noopener">
+      Global climate evolution during the last deglaciation
+    </a>. <em>Proceedings of the National Academy of Sciences</em> 109: E1134–42.
+  </li>
+</ul>
+
+<p style="text-align:center !important; font-size:0.9em;">
+  <a href="#top">↑ Back to top</a>
+</p>
+
+<h3>2011</h3>
+<ul class="pub-list">
+  <li>
+    <b>Blois, J.L.</b>, Williams, J.W., Grimm, E.C., Jackson, S.T., and R.W. Graham (2011).
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0277379111001193" target="_blank" rel="noopener">
+      A methodological framework for assessing and reducing temporal uncertainty in paleovegetation mapping from late-Quaternary pollen records
+    </a>. <em>Quaternary Science Reviews</em> 30: 1926–1939.
+  </li>
+
+  <li>
+    Williams, J.W., <b>Blois, J.L.</b>, and B.N. Shuman (2011).
+    <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2745.2011.01810.x" target="_blank" rel="noopener">
+      Extrinsic and intrinsic forcing of abrupt ecological change: case studies from the late Quaternary
+    </a>. <em>Journal of Ecology</em> 99: 664–677.
+  </li>
+</ul>
+
+<p style="text-align:center !important; font-size:0.9em;">
+  <a href="#top">↑ Back to top</a>
+</p>
+
+<h3>2010</h3>
+<ul class="pub-list">
+  <li>
+    <b>Blois, J.L.</b>, McGuire, J.L., and E.A. Hadly (2010).
+    <a href="https://www.nature.com/articles/nature09077" target="_blank" rel="noopener">
+      Small mammal diversity loss in response to late-Pleistocene climatic change
+    </a>. <em>Nature</em> 465: 771–774.
+    <ul>
+      <li>
+        Press: 
+        <a href="https://www.nature.com/articles/nature09077" target="_blank" rel="noopener">Nature News</a>, 
+        <a href="https://news.stanford.edu/" target="_blank" rel="noopener">Stanford</a>, 
+        <a href="https://archive.nytimes.com/green.blogs.nytimes.com/2010/05/27/move-over-polar-bear/" target="_blank" rel="noopener">NY Times</a>, 
+        <a href="https://archive.nytimes.com/green.blogs.nytimes.com/2010/05/27/move-over-polar-bear/" target="_blank" rel="noopener">SF Chronicle</a>, 
+        <a href="http://blogs.discovermagazine.com/notrocketscience/2010/05/23/%E2%80%9Cweedy%E2%80%9D-mice-dominate-a-warming-world-while-other-small-mammals-suffer/" target="_blank" rel="noopener">Discover</a>, 
+        <a href="https://www.sciencedaily.com/releases/2010/05/100523205822.htm" target="_blank" rel="noopener">ScienceDaily</a>, 
+        <a href="https://www.cnn.com/2010/TECH/05/25/biodiversity.small.mammals.loss/index.html" target="_blank" rel="noopener">CNN</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p style="text-align:center !important; font-size:0.9em;">
+  <a href="#top">↑ Back to top</a>
+</p>
+

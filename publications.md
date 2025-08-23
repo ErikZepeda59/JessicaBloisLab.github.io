@@ -16,6 +16,8 @@ permalink: /publications/
      alt="Blois Paleoecology Lab"
      style="display:block;width:100%;height:auto;border-radius:10px;
             box-shadow:0 2px 10px rgba(0,0,0,.15);margin:0 0 1.25rem;">
+            
+<a id="top"></a>
 
 # Publications
 
@@ -362,3 +364,14 @@ permalink: /publications/
   <li>
   Lyons, S.K., Miller, J.H., Tóth, A., Amatangelo, K.L., Behrensmeyer, A.K., Bercovici, A., <b>Blois, J.L.</b>, Davis, M., DiMichele, W.A., Du, A., Eronen, J.T., Faith, J.T., Graves, G.R., Jud, N., Labandeira, C., Looy, C.V., McGill, B., Patterson, D., Pineda-Munoz, S., Potts, R., Riddle, B., Terry, R., Ulrich, W., Villaseñor, A., Wing, S., Anderson, H., Anderson, J., and N.J. Gotelli (2016). Lyons et al. reply. <em>Nature</em> 537: E5–E6.
 </li>
+</ul>
+
+<p style="text-align:right; font-size:0.9em;">
+  <a href="#top">top</a>
+</p>
+
+
+
+
+
+

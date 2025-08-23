@@ -370,6 +370,40 @@ permalink: /publications/
   <a href="#top">↑ Back to top</a>
 </p>
 
+h3>2015</h3>
+<ul class="pub-list">
+  <li>
+    Maguire, K.C., Nieto Lugilde, D., Fitzpatrick, M.C., Williams, J.W., and <b>J.L. Blois</b> (2015).
+    <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-112414-054441?originator=useradmin&identity=5131&timestamp=20991231000000&signature=6a0a644e994c652e400ab9b12c815828" target="_blank" rel="noopener">
+      Modeling species and community responses to past, present, and future episodes of climatic and ecological change
+    </a>. <em>Annual Review of Ecology, Evolution, and Systematics</em> 46: 343–368.
+  </li>
+
+  <li>
+    Nieto Lugilde, D., <b>Maguire, K.C.</b>, <b>Blois, J.L.</b>, Williams, J.W., Fitzpatrick, M.C. (2015).
+    <a href="https://onlinelibrary.wiley.com/doi/10.1111/geb.12300" target="_blank" rel="noopener">
+      Close agreement between pollen-based and forest inventory-based models of vegetation turnover
+    </a>. <em>Global Ecology and Biogeography</em> 24(8): 905–916.
+  </li>
+
+  <li>
+    Gill, J.L., <b>Blois, J.L.</b>, Benito, B., Dobrowski, S., Hunter Jr., M.L., and J.L. McGuire (2015).
+    <a href="https://conbio.onlinelibrary.wiley.com/doi/epdf/10.1111/cobi.12504" target="_blank" rel="noopener">
+      Conserving the stage for 10,000 years: a paleoecological perspective on coarse-filter strategies
+    </a>. <em>Conservation Biology</em> 29: 640–648.
+  </li>
+
+  <li>
+    Jackson, S.T. and <b>J.L. Blois</b> (2015).
+    <a href="https://www.pnas.org/doi/full/10.1073/pnas.1403664111" target="_blank" rel="noopener">
+      Community ecology in a changing environment: perspectives from the Quaternary
+    </a>. <em>Proceedings of the National Academy of Sciences</em> 112: 4915–4921.
+  </li>
+</ul>
+
+<p style="text-align:center !important; font-size:0.9em;">
+  <a href="#top">↑ Back to top</a>
+</p>
 
 
 

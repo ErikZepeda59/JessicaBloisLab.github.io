@@ -366,8 +366,8 @@ permalink: /publications/
 </li>
 </ul>
 
-<p style="text-align:left; font-size:0.9em;">
-  <a href="#top">top</a>
+<p style="text-align:center !important; font-size:0.9em;">
+  <a href="#top">↑ Back to top</a>
 </p>
 
 

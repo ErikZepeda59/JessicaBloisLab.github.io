@@ -344,28 +344,25 @@ permalink: /publications/
   </li>
 
  <li>
-    <em>Listen to Jessica’s interview about this study on Tom Willey’s Down on the Farm radio show</em>
-    (<a href="https://tdwilleyfarms.com/podcast-down-on-the-farm-with-tom-willey/" target="_blank" rel="noopener">here</a>). It’s the Feb 5th, 2016 episode.
-  </li>
+  Lyons, S.K., Amatangelo, K.L., Behrensmeyer, A.K., Bercovici, A., <b>Blois, J.L.</b>, Davis, M., DiMichele, W.A., Du, A., Eronen, J.T., Faith, J.T., Graves, G.R., Jud, N., Labandeira, C., Looy, C.V., McGill, B., Miller, J.H., Patterson, D., Pineda-Munoz, S., Potts, R., Riddle, B., Terry, R., Tóth, A., Ulrich, W., Villaseñor, A., Wing, S., Anderson, H., Anderson, J., Waller, D. and N.J. Gotelli (2016).  
+  <a href="PUT_LINK_HERE" target="_blank" rel="noopener">
+    Holocene shifts in the assembly of terrestrial plant and animal communities implicate increasing human impacts
+  </a>. <em>Nature</em> 529: 80–83.
 
-  <li>
-    <em>Read Jessica’s take on this paper</em>
-    (<a href="https://jessicablois.com/2015/12/16/are-community-assembly-rules-different-today-than-in-the-past/" target="_blank" rel="noopener">here</a>).
-  </li>
-
-  <li>
-  <em>Correspondence about the paper:</em><br>
-  Bertelsmeier, C. and S. Ollier (2016).
-  <a href="https://www.nature.com/articles/nature19110" target="_blank" rel="noopener">
-    Questioning Holocene community shifts
-  </a>. <em>Nature</em> 537: E4–E5.
+  <ul>
+    <li><em>Listen to Jessica’s interview about this study on Tom Willey’s Down on the Farm radio show</em> (<a href="https://tdwilleyfarms.com/podcast-down-on-the-farm-with-tom-willey/" target="_blank" rel="noopener">here</a>).</li>
+    <li><em>Read Jessica’s take on this paper</em> (<a href="https://jessicablois.com/2015/12/16/are-community-assembly-rules-different-today-than-in-the-past/" target="_blank" rel="noopener">here</a>).</li>
+    <li><em>Correspondence about the paper:</em> Bertelsmeier, C. and S. Ollier (2016).  
+      <a href="https://www.nature.com/articles/nature19110" target="_blank" rel="noopener">Questioning Holocene community shifts</a>. <em>Nature</em> 537: E4–E5.
+    </li>
+    <li>
+      Lyons, S.K., Miller, J.H., Tóth, A., Amatangelo, K.L., Behrensmeyer, A.K., Bercovici, A., <b>Blois, J.L.</b>, Davis, M., DiMichele, W.A., Du, A., Eronen, J.T., Faith, J.T., Graves, G.R., Jud, N., Labandeira, C., Looy, C.V., McGill, B., Patterson, D., Pineda-Munoz, S., Potts, R., Riddle, B., Terry, R., Tóth, A., Ulrich, W., Villaseñor, A., Wing, S., Anderson, H., Anderson, J., and N.J. Gotelli (2016).  
+      Lyons et al. reply.  
+      <a href="https://www.nature.com/articles/nature19111" target="_blank" rel="noopener"><em>Nature</em></a> 537: E5–E6.
+    </li>
+  </ul>
 </li>
 
-  <li>
-  Lyons, S.K., Miller, J.H., Tóth, A., Amatangelo, K.L., Behrensmeyer, A.K., Bercovici, A., <b>Blois, J.L.</b>, Davis, M., DiMichele, W.A., Du, A., Eronen, J.T., Faith, J.T., Graves, G.R., Jud, N., Labandeira, C., Looy, C.V., McGill, B., Patterson, D., Pineda-Munoz, S., Potts, R., Riddle, B., Terry, R., Ulrich, W., Villaseñor, A., Wing, S., Anderson, H., Anderson, J., and N.J. Gotelli (2016).
-  Lyons et al. reply. 
-  <a href="https://www.nature.com/articles/nature19111" target="_blank" rel="noopener"><em>Nature</em></a> 537: E5–E6.
-</li>
 
 </ul>
 

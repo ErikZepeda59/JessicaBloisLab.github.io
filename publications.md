@@ -356,14 +356,17 @@ permalink: /publications/
   <li>
   <em>Correspondence about the paper:</em><br>
   Bertelsmeier, C. and S. Ollier (2016).
-  <a href="https://www.nature.com/articles/nature19111" target="_blank" rel="noopener">
+  <a href="https://www.nature.com/articles/nature19110" target="_blank" rel="noopener">
     Questioning Holocene community shifts
   </a>. <em>Nature</em> 537: E4–E5.
 </li>
 
   <li>
-  Lyons, S.K., Miller, J.H., Tóth, A., Amatangelo, K.L., Behrensmeyer, A.K., Bercovici, A., <b>Blois, J.L.</b>, Davis, M., DiMichele, W.A., Du, A., Eronen, J.T., Faith, J.T., Graves, G.R., Jud, N., Labandeira, C., Looy, C.V., McGill, B., Patterson, D., Pineda-Munoz, S., Potts, R., Riddle, B., Terry, R., Ulrich, W., Villaseñor, A., Wing, S., Anderson, H., Anderson, J., and N.J. Gotelli (2016). Lyons et al. reply. <em>Nature</em> 537: E5–E6.
+  Lyons, S.K., Miller, J.H., Tóth, A., Amatangelo, K.L., Behrensmeyer, A.K., Bercovici, A., <b>Blois, J.L.</b>, Davis, M., DiMichele, W.A., Du, A., Eronen, J.T., Faith, J.T., Graves, G.R., Jud, N., Labandeira, C., Looy, C.V., McGill, B., Patterson, D., Pineda-Munoz, S., Potts, R., Riddle, B., Terry, R., Ulrich, W., Villaseñor, A., Wing, S., Anderson, H., Anderson, J., and N.J. Gotelli (2016).
+  Lyons et al. reply. 
+  <a href="https://www.nature.com/articles/nature19111" target="_blank" rel="noopener"><em>Nature</em></a> 537: E5–E6.
 </li>
+
 </ul>
 
 <p style="text-align:center !important; font-size:0.9em;">
@@ -544,10 +547,8 @@ permalink: /publications/
       <li>
         Press: 
         <a href="https://www.nature.com/articles/nature09077" target="_blank" rel="noopener">Nature News</a>, 
-        <a href="https://news.stanford.edu/" target="_blank" rel="noopener">Stanford</a>, 
         <a href="https://archive.nytimes.com/green.blogs.nytimes.com/2010/05/27/move-over-polar-bear/" target="_blank" rel="noopener">NY Times</a>, 
         <a href="https://archive.nytimes.com/green.blogs.nytimes.com/2010/05/27/move-over-polar-bear/" target="_blank" rel="noopener">SF Chronicle</a>, 
-        <a href="http://blogs.discovermagazine.com/notrocketscience/2010/05/23/%E2%80%9Cweedy%E2%80%9D-mice-dominate-a-warming-world-while-other-small-mammals-suffer/" target="_blank" rel="noopener">Discover</a>, 
         <a href="https://www.sciencedaily.com/releases/2010/05/100523205822.htm" target="_blank" rel="noopener">ScienceDaily</a>, 
         <a href="https://www.cnn.com/2010/TECH/05/25/biodiversity.small.mammals.loss/index.html" target="_blank" rel="noopener">CNN</a>
       </li>

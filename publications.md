@@ -436,15 +436,7 @@ permalink: /publications/
     ( <a href="https://www.science.org/doi/abs/10.1126/science.1237184?ijkey=01pPcYP5Z7ces&keytype=ref&siteid=sci" target="_blank" rel="noopener">Abstract</a> | 
       <a href="https://www.science.org/doi/10.1126/science.1237184?ijkey=01pPcYP5Z7ces&keytype=ref&siteid=sci" target="_blank" rel="noopener">Full Text</a> | 
       <a href="https://www.science.org/doi/10.1126/science.1237184?ijkey=01pPcYP5Z7ces&keytype=ref&siteid=sci" target="_blank" rel="noopener">Reprint</a> )
-    <ul>
-      <li><a href="https://www.science.org/doi/10.1126/science.74" target="_blank" rel="noopener">Podcast</a> (my part from 13:48 to 22:12)</li>
-      <li>Press coverage: 
-        <a href="https://www.science.org/doi/10.1126/science.74" target="_blank" rel="noopener">UC Merced</a>, 
-        <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=128632&org=NSF&from=news" target="_blank" rel="noopener">NSF</a>, 
-        <a href="https://environment.yale.edu/news/article/deep-past-offers-clues-into-climate-driven-biotic-shifts" target="_blank" rel="noopener">Yale</a>, and 
-        <a href="https://www.sciencedaily.com/releases/2013/08/130805092632.htm" target="_blank" rel="noopener">ScienceDaily</a>
-      </li>
-    </ul>
+       
   </li>
 
   <li>

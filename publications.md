@@ -454,10 +454,7 @@ permalink: /publications/
     <ul>
       <li>Press coverage: 
         <a href="https://news.wisc.edu/understanding-the-past-and-predicting-the-future-by-looking-across-space-and-time/" target="_blank" rel="noopener">UW Madison</a>, 
-        <a href="https://www.sciencedaily.com/releases/2013/05/130525143731.htm" target="_blank" rel="noopener">Science Daily</a>, 
-        <a href="https://www.ucmerced.edu/news/professor%E2%80%99s-work-earns-her-spot-prestigious-journal" target="_blank" rel="noopener">UC Merced</a>, 
-        <a href="https://www.mercedsunstar.com/2013/06/11/3064650/uc-merced-connect-ancient-pollen.html" target="_blank" rel="noopener">Merced Sun Star</a>, 
-        <a href="https://www.sacbee.com/2013/06/11/5489888/uc-merced-connect-ancient-pollen.html" target="_blank" rel="noopener">Sacramento Bee</a>
+        <a href="https://www.sciencedaily.com/releases/2013/05/130525143731.htm" target="_blank" rel="noopener">Science Daily</a>
       </li>
       <li><a href="https://datadryad.org/dataset/doi:10.5061/dryad.d5f1r" target="_blank" rel="noopener">Link to data and code in Dryad</a></li>
     </ul>
@@ -471,9 +468,6 @@ permalink: /publications/
     <ul>
       <li>The downscaled paleoclimate simulations are publicly available 
         <a href="http://ccr.aos.wisc.edu/resources/data_scripts/#ccsm3" target="_blank" rel="noopener">here</a>
-      </li>
-      <li>Featured article on the <em>Ecography</em> 
-        <a href="https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fecographyjournal%3Ffilter%3D1" target="_blank" rel="noopener">Facebook</a> page
       </li>
     </ul>
   </li>
